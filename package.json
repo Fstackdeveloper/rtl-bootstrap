@@ -1,6 +1,6 @@
 {
   "name": "rtl-bootstrap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bootstrap RTL (For arabic & Farsi) Based on Bootstrap 4.0.0 Beta 2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
