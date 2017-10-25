@@ -5,6 +5,11 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+html,
+body {
+  direction: rtl;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;

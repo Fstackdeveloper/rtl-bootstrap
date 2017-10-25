@@ -22,6 +22,11 @@ html {
           box-sizing: inherit;
 }
 
+html,
+body {
+  direction: rtl;
+}
+
 .container {
   width: 100%;
   padding-right: 15px;
