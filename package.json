@@ -1,7 +1,7 @@
 {
   "name": "rtl-bootstrap",
   "version": "0.0.2",
-  "description": "Based on Bootstrap 4.0.0 Beta 2",
+  "description": "Bootstrap RTL (For arabic & Farsi) Based on Bootstrap 4.0.0 Beta 2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,16 @@
     "url": "https://github.com/Fstackdeveloper/rtl-bootstrap"
   },
   "author": "Mohamed Jasim <info@fullstackdeveloper.org> (https://fullstackdeveloper.org)",
-  "main": "js/fcrousel",
-  "license": "MIT"
+  "main": "dist/js/bootstrap",
+  "style": "dist/css/bootstrap.css",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ]
 }
